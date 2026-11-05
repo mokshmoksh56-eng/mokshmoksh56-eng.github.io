@@ -2,9 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "اسم_حزمة_التطبيق_هنا",
+    "package_name": "io.github.mokshmoksh56_eng.twa",
     "sha256_cert_fingerprints": [
-      "بصمة_SHA_256_هنا"
+      "ضع_هنا_كود_البصمة_SHA_256"
     ]
   }
 }]
