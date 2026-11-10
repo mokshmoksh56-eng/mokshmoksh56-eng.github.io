@@ -4,8 +4,19 @@
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.mokshmoksh56_eng.twa",
-      "sha256_cert_fingerprints":
-        ["86:13:5E:18:92:08:66:C8:E8:A8:6B:90:CD:DE:98:C1:61:60:4A:0F:63:76:F2:B6:1C:24:9D:5A:0A:11:DA:C7"]
+      "sha256_cert_fingerprints": [
+        "86:13:5E:18:92:08:66:C8:E8:A8:6B:90:CD:DE:98:C1:61:60:4A:0F:63:76:F2:B6:1C:24:9D:5A:0A:11:DA:C7"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.azemaa.pro",
+      "sha256_cert_fingerprints": [
+        "49:23:03:37:8A:CC:44:D8:DB:0F:D2:92:C6:5E:7C:ED:7F:99:66:A6:06:9F:48:86:B4:89:C8:E6:08:B1:AA:49"
+      ]
     }
   }
 ]
